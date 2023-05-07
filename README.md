@@ -15,3 +15,5 @@ This is a personally made datastructure library which includes:
 - Trees:
   - Binary Search Tree
   - AVL Tree (self-balancing)
+  
+This also includes self written tests using JUnit for each datastructure.
